@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Staff: Group posts hider
 // @description  Hide posts from general feed
-// @namespace    reposit.ru
+// @namespace    covoc.userjs
 // @author       John Doe
 // @include      https://staff.skbkontur.ru/*
 // @version      0.1
