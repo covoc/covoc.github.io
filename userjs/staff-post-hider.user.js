@@ -5,7 +5,7 @@
 // @author       John Doe
 // @include      https://staff.skbkontur.ru/*
 // @version      0.1
-// @updateURL    http://covoc.github.io/userjs/staff-post-hider.user.js
+// @updateURL    https://covoc.github.io/userjs/staff-post-hider.user.js
 // @run-at document-end
 // ==/UserScript==
 
